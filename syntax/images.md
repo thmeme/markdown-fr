@@ -14,17 +14,16 @@ La différence est la suivante :
 * ils peuvent contenir un texte alternatif, qui s'affiche quand l'image ne peut être chargée.
 
 ---
+Voici un quiz sur les images avec markdown
 
-Here's a quiz about markdown images.
-
-Select the valid images:
+Choississez la bonne image:
 - [ ] `[Google logo](https://www.google.ru/logo.png)`
 - [x] `![](https://www.google.ru/logo.png)`
 
-> Images must be prefixed with an exclamation mark.
-The alternative text and a title are optional.
+> Les images doivent être précédées d'un point d'exclamation.
+Le texte alternatif et un titre sont facultatifs.
 
-What is true about the following line: ```![Funny cat](http://cats.ru/funny.png "Share this")```
+Qu'est-ce qui est vrai dans les ligne suivantes: ```![Funny cat](http://cats.ru/funny.png "Share this")```
 - [x] if the url is 404, "Funny cat" will be displayed
 - [ ] exclamation mark can be omitted in this case
 - [ ] if the url is 404, "Share this" will be displayed
