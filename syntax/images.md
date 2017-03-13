@@ -24,11 +24,11 @@ Choississez la bonne image:
 Le texte alternatif et un titre sont facultatifs.
 
 Qu'est-ce qui est vrai dans les ligne suivantes: ```![Funny cat](http://cats.ru/funny.png "Share this")```
-- [x] if the url is 404, "Funny cat" will be displayed
-- [ ] exclamation mark can be omitted in this case
-- [ ] if the url is 404, "Share this" will be displayed
-- [x] on mouse over the image "Share this" will be displayed
+- [ ] Si l'url est 404, "Funny cat" s'affichera
+- [ ] Le point d'exclamation peut être omis dans ce cas
+- [ ] Si l'url est 404, "Share this" sera affiché
+- [x] au survol de la souris "Share this" sera affiché
 
-> Similarly to links, images can have 3 parts: the alternative text, the url and a title. An exclamation mark is nesessary.
+> De la même façon aux liens, les images peuvent avoir 3 parties : le texte alternatif, l'url et un titre. Un point d'exclamation est nesessary.
 
 ---
